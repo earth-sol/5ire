@@ -98,7 +98,7 @@
     "@rsdoctor/webpack-plugin": "^0.1.5",
     "@sentry/electron": "^4.7.0",
     "@sentry/react": "^7.74.0",
-    "@supabase/supabase-js": "^2.38.5",
+    "@supabase/supabase-js": "^2.50.0",
     "@svgr/webpack": "^8.0.1",
     "@teamsupercell/typings-for-css-modules-loader": "^2.5.2",
     "@testing-library/jest-dom": "^5.16.5",
