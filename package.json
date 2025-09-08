@@ -131,7 +131,7 @@
     "debug": "^4.3.4",
     "detect-port": "^1.5.1",
     "dotenv": "^16.4.5",
-    "electron": "31.7.1",
+    "electron": "38.0.0",
     "electron-builder": "^24.6.3",
     "electron-debug": "^3.2.0",
     "electron-devtools-installer": "^3.2.0",
