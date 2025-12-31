@@ -95,7 +95,7 @@
     "@herberttn/bytenode-webpack-plugin": "^2.3.1",
     "@modelcontextprotocol/sdk": "^1.0.4",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.10",
-    "@rsdoctor/webpack-plugin": "^0.1.5",
+    "@rsdoctor/webpack-plugin": "^1.4.0",
     "@sentry/electron": "^4.7.0",
     "@sentry/react": "^7.74.0",
     "@supabase/supabase-js": "^2.38.5",
