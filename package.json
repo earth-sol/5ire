@@ -113,7 +113,7 @@
     "llama3-tokenizer-js": "^1.0.0",
     "lodash": "^4.17.21",
     "magic-bytes.js": "^1.12.1",
-    "markdown-it": "^13.0.1",
+    "markdown-it": "^14.1.1",
     "markdown-it-emoji": "^3.0.0",
     "markdown-it-mathjax3": "^4.3.2",
     "markdown-it-mermaid": "^0.2.5",
