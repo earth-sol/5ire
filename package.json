@@ -75,7 +75,7 @@
     "@fluentui/react-datepicker-compat": "^0.4.6",
     "@fluentui/react-icons": "^2.0.223",
     "@lancedb/lancedb": "^0.14.1",
-    "@modelcontextprotocol/sdk": "^1.17.1",
+    "@modelcontextprotocol/sdk": "^1.26.0",
     "@postlight/parser": "^2.2.3",
     "@sentry/electron": "^4.7.0",
     "@sentry/react": "^7.74.0",
